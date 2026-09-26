@@ -1,0 +1,48 @@
+-card reveal"><span class="service-num">06</span><h3>Сложные материалы</h3><p>Дерево, рог, кость, бамбук, драгоценные металлы и оправы со вставками — после индивидуальной оценки мастера.</p><button class="text-link" data-open-estimate>Показать мастеру →</button></article>
+      </div>
+    </section>
+
+    <section class="brands-band">
+      <div class="wrap">
+        <span class="eyebrow">Работаем в том числе с брендами</span>
+        <div class="brand-list" aria-label="Бренды оправ">
+          <span>Silhouette</span><span>Cartier</span><span>Chrome Hearts</span><span>Lindberg</span><span>Ray-Ban</span><span>Mykita</span><span>Chopard</span><span>Mikli</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="work" class="section wrap">
+      <div class="section-head reveal">
+        <div><span class="eyebrow dark">Результат видно</span><h2>До и после ремонта</h2></div>
+        <p>Использованы фотографии реальных работ с действующего сайта ЛАЗЕРГРАНД.</p>
+      </div>
+      <div class="before-after-grid">
+        <figure class="ba-card reveal">
+          <div class="ba-pair">
+            <div><span>До</span><img src="https://lasergrand.ru/wp-content/uploads/2020/05/repairs-91-e1590347472258.jpg" alt="Сломанная пластиковая оправа до ремонта" loading="lazy" /></div>
+            <div><span>После</span><img src="https://lasergrand.ru/wp-content/uploads/2020/05/repairs-92.jpg" alt="Пластиковая оправа после ремонта" loading="lazy" /></div>
+          </div>
+          <figcaption><b>Восстановление пластиковой оправы</b><small>Точное восстановление узла крепления и геометрии.</small></figcaption>
+        </figure>
+        <figure class="ba-card reveal delay-1">
+          <div class="ba-pair">
+            <div><span>До</span><img src="https://lasergrand.ru/wp-content/uploads/2020/05/repairs-81-e1590347533937.jpg" alt="Сломанная оправа до ремонта" loading="lazy" /></div>
+            <div><span>После</span><img src="https://lasergrand.ru/wp-content/uploads/2020/05/repairs-82.jpg" alt="Оправа после восстановления" loading="lazy" /></div>
+          </div>
+          <figcaption><b>Ремонт рамки и моста</b><small>Восстановление формы с аккуратной обработкой места ремонта.</small></figcaption>
+        </figure>
+        <figure class="ba-card reveal">
+          <div class="ba-pair">
+            <div><span>До</span><img src="https://lasergrand.ru/wp-content/uploads/2020/05/repairs-61-e1590347110340.jpg" alt="Металлическая оправа до ремонта" loading="lazy" /></div>
+            <div><span>После</span><img src="https://lasergrand.ru/wp-content/uploads/2020/05/repairs-62-e1591132526119.jpg" alt="Металлическая оправа после ремонта" loading="lazy" /></div>
+          </div>
+          <figcaption><b>Восстановление металлической оправы</b><small>Работа с креплением и последующей доводкой.</small></figcaption>
+        </figure>
+      </div>
+      <div class="center-action"><button class="btn btn-dark" data-open-estimate>Показать свою поломку мастеру</button></div>
+    </section>
+
+    <section class="section section-soft">
+      <div class="wrap advantages-grid">
+        <div class="adv-copy reveal">
+          <span class="eyebrow dark">Почему специализированная м
