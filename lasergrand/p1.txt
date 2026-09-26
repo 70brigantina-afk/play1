@@ -1,0 +1,54 @@
+
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="ЛАЗЕРГРАНД — на главную">
+      <span class="brand-mark">LG</span>
+      <span><b>ЛАЗЕРГРАНД</b><small>сервис ремонта очков</small></span>
+    </a>
+    <nav class="nav" aria-label="Основная навигация">
+      <a href="#services">Услуги</a>
+      <a href="#work">До / после</a>
+      <a href="#prices">Цены</a>
+      <a href="#delivery">По России</a>
+      <a href="#reviews">Отзывы</a>
+      <a href="#contacts">Контакты</a>
+    </nav>
+    <a class="phone-link" href="tel:+79851963636">+7 985 196-36-36</a>
+    <button class="menu-btn" aria-label="Открыть меню" aria-expanded="false">☰</button>
+  </header>
+
+  <main id="top">
+    <section class="hero section-dark">
+      <div class="hero-grid wrap">
+        <div class="hero-copy reveal">
+          <span class="eyebrow">Москва · м. Кузнецкий Мост · принимаем из регионов России</span>
+          <h1>Ремонт очков, за который другие мастерские не всегда берутся</h1>
+          <p class="lead">Лазерная сварка титана и стали, восстановление пластика, замена дужек и линз, ремонт сложных и дорогих оправ. Сначала пришлите фото — мастер оценит возможность ремонта, ориентир по стоимости и сроку.</p>
+          <div class="hero-actions">
+            <button class="btn btn-accent" data-open-estimate>Отправить фото поломки</button>
+            <a class="btn btn-ghost" href="tel:+79851963636">Позвонить мастеру</a>
+          </div>
+          <div class="trust-row">
+            <div><strong>15+ лет</strong><span>опыт мастеров</span></div>
+            <div><strong>1–12 мес.</strong><span>гарантия по виду ремонта</span></div>
+            <div><strong>При вас</strong><span>многие виды работ</span></div>
+          </div>
+        </div>
+
+        <div class="hero-visual reveal delay-1">
+          <div class="hero-card">
+            <div class="hero-card-label">Точная работа с оправой</div>
+            <div class="glasses-art" aria-hidden="true">
+              <svg viewBox="0 0 640 280" role="img">
+                <defs>
+                  <linearGradient id="metal" x1="0" x2="1">
+                    <stop offset="0" stop-color="#b78643" />
+                    <stop offset=".5" stop-color="#f0d7a4" />
+                    <stop offset="1" stop-color="#8c6234" />
+                  </linearGradient>
+                </defs>
+                <path d="M73 132 C122 98 219 96 261 127 C279 140 282 184 259 204 C221 236 121 232 86 200 C65 181 54 151 73 132Z" fill="none" stroke="url(#metal)" stroke-width="10"/>
+                <path d="M379 127 C421 96 518 98 567 132 C586 151 575 181 554 200 C519 232 419 236 381 204 C358 184 361 140 379 127Z" fill="none" stroke="url(#metal)" stroke-width="10"/>
+                <path d="M262 145 C292 126 348 126 378 145" fill="none" stroke="url(#metal)" stroke-width="10" stroke-linecap="round"/>
+                <path d="M75 139 L7 111" fill="none" stroke="url(#metal)" stroke-width="9" stroke-linecap="round"/>
+                <path d="M565 139 L633 111" fill="none" stroke="url(#metal)" stroke-width="9" stroke-linecap="round"/>
+                <path d="M318 124 L318 196" stroke="#d9b36b" stroke-width="2" stroke-dasharray="5 8" opacity=".65"
