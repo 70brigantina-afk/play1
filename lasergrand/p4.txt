@@ -1,0 +1,37 @@
+астерская</span>
+          <h2>Очки — это не просто металлическая деталь</h2>
+          <p>При ремонте важно сохранить геометрию оправы, не повредить линзы и правильно работать с конкретным материалом. Для титана, стали и алюминия мастерская использует лазерную сварку в среде аргона.</p>
+          <p>Для пластиковых оправ применяется склейка с армированием. Перед сваркой или склейкой место ремонта подготавливают, после — шлифуют и доводят.</p>
+        </div>
+        <div class="adv-list reveal delay-1">
+          <div><span>✓</span><p><b>Письменная гарантия</b><small>Срок зависит от вида выполненной работы — от 1 месяца до 1 года.</small></p></div>
+          <div><span>✓</span><p><b>Наряд-заказ и кассовый чек</b><small>Документы важны в том числе для гарантийного обслуживания.</small></p></div>
+          <div><span>✓</span><p><b>Многие работы выполняются при клиенте</b><small>Без лишней передачи очков по посредникам.</small></p></div>
+          <div><span>✓</span><p><b>Работа с регионами</b><small>Предварительное согласование по фото, доставка, фотоотчёт и обратная отправка.</small></p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="prices" class="section wrap">
+      <div class="section-head reveal">
+        <div><span class="eyebrow dark">Прозрачный ориентир</span><h2>Цены на популярные работы</h2></div>
+        <p>Итог зависит от материала, сложности и последовательности операций. Точную стоимость мастер определяет после осмотра.</p>
+      </div>
+
+      <div class="price-tabs" role="tablist" aria-label="Категории прайса">
+        <button class="active" data-price-tab="all">Все</button>
+        <button data-price-tab="welding">Лазерная сварка</button>
+        <button data-price-tab="plastic">Пластик</button>
+        <button data-price-tab="silhouette">Silhouette</button>
+        <button data-price-tab="lenses">Линзы</button>
+        <button data-price-tab="small">Мелкий ремонт</button>
+      </div>
+
+      <div class="price-table reveal" id="priceTable">
+        <div class="price-row" data-cat="welding"><div><b>Сварка пружинной петли flex к дужке</b><small>сталь / латунь · титан</small></div><div><strong>от 1 500 ₽</strong><span>титан — от 3 000 ₽</span></div></div>
+        <div class="price-row" data-cat="welding"><div><b>Сварка винта рамы оправы</b><small>сталь / латунь · титан</small></div><div><strong>2 000 ₽</strong><span>титан — от 3 000 ₽</span></div></div>
+        <div class="price-row" data-cat="welding"><div><b>Сварка рамы к колодке</b><small>винтовое соединение</small></div><div><strong>от 2 000 ₽</strong><span>титан — от 3 500 ₽</span></div></div>
+        <div class="price-row" data-cat="welding"><div><b>Замена петли крепления рама–дужка</b><small>с лазерной сваркой</small></div><div><strong>3 000 ₽</strong><span>титан — 4 000 ₽</span></div></div>
+        <div class="price-row" data-cat="plastic"><div><b>Ремонт пластиковой рамки</b><small>склейка с армированием</small></div><div><strong>от 3 000 ₽</strong></div></div>
+        <div class="price-row" data-cat="plastic"><div><b>Ремонт пластикового моста или дужки</b><small>склейка с армированием</small></div><div><strong>от 3 000 ₽</strong></div></div>
+        <d
