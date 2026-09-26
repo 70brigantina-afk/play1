@@ -1,0 +1,46 @@
+85600.jpg" alt="Интерьер мастерской ЛАЗЕРГРАНД" loading="lazy"/><figcaption>Мастерская и оборудование</figcaption></figure>
+      </div>
+    </section>
+
+    <section class="final-cta section-dark">
+      <div class="wrap final-grid reveal">
+        <div><span class="eyebrow">Не спешите покупать новую оправу</span><h2>Сначала узнайте, можно ли восстановить вашу</h2><p>Пришлите фотографии поломки. Мастер посмотрит конструкцию и подскажет, какой ремонт возможен.</p></div>
+        <div class="hero-actions"><button class="btn btn-accent" data-open-estimate>Отправить фото</button><a class="btn btn-ghost" href="tel:+79851963636">Позвонить</a></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap footer-grid">
+      <div class="brand footer-brand"><span class="brand-mark">LG</span><span><b>ЛАЗЕРГРАНД</b><small>ремонт очков</small></span></div>
+      <p>Москва, ул. Рождественка, 5/7с2<br>Пн–Пт 10:00–20:00</p>
+      <p><a href="tel:+79851963636">+7 985 196-36-36</a><br><span>Приём ремонта из регионов России</span></p>
+      <p class="demo-note">Концепт редизайна. Фактические цены, адрес, услуги и условия собраны с действующего сайта ЛАЗЕРГРАНД на 26.09.2026.</p>
+    </div>
+  </footer>
+
+  <div class="mobile-cta" aria-label="Быстрые действия">
+    <a href="tel:+79851963636">Позвонить</a>
+    <button data-open-estimate>Отправить фото</button>
+  </div>
+
+  <div class="modal" id="estimateModal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="estimateTitle">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-panel">
+      <button class="modal-close" aria-label="Закрыть" data-close-modal>×</button>
+      <span class="eyebrow dark">Предварительная оценка</span>
+      <h2 id="estimateTitle">Покажите поломку мастеру</h2>
+      <p>Для реального сайта сюда подключается MAX/CRM или форма с загрузкой фото. В демонстрации оставлены готовые поля, чтобы показать клиенту сценарий.</p>
+      <form id="estimateForm">
+        <label>Имя<input type="text" name="name" placeholder="Как к вам обращаться" required></label>
+        <label>Телефон<input type="tel" name="phone" placeholder="+7 ___ ___-__-__" required></label>
+        <label>Что случилось<textarea name="problem" rows="4" placeholder="Например: сломалась титановая дужка Silhouette"></textarea></label>
+        <label class="file-field">Фото очков<input type="file" accept="image/*" multiple><span>Можно выбрать несколько фотографий</span></label>
+        <button class="btn btn-dark wide" type="submit">Отправить на оценку</button>
+        <small class="form-note">Демо-форма: отправка отключена до подключения CRM/мессенджера.</small>
+      </form>
+      <div class="form-success" hidden><b>Сценарий заявки готов.</b><span>При публикации подключим форму к нужному каналу клиента.</span></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
