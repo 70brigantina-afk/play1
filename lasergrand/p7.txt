@@ -1,0 +1,35 @@
+, сварку или склейку, обработку шва, сборку, выравнивание и при необходимости дополнительные работы. Поэтому итог определяется после осмотра.</p></details>
+            <details><summary>Можно ли отполировать сильно поцарапанные линзы?</summary><p>Согласно информации мастерской, полировка повреждённых линз не применяется: на линзах есть функциональные покрытия, которые можно испортить. При критических царапинах рассматривается замена линз.</p></details>
+            <details><summary>Почему для титана важна специализированная сварка?</summary><p>На текущем сайте мастерская указывает лазерную сварку в среде аргона для титана, стали и алюминия. Важно не только соединить металл, но и сохранить геометрию оправы и работоспособность узла.</p></details>
+            <details><summary>Можно ли ремонтировать дорогие или необычные оправы?</summary><p>Да, мастерская указывает работу с Cartier, Chrome Hearts, Lindberg, Silhouette и другими брендами, а также с деревом, рогом, костью, бамбуком и драгоценными металлами — после индивидуальной оценки.</p></details>
+            <details><summary>Как действует гарантия?</summary><p>Срок гарантии зависит от вида ремонта и указан в документах на выполненную работу. Для гарантийного обращения важно сохранить наряд-заказ и кассовый чек.</p></details>
+          </div>
+        </div>
+        <aside class="info-card reveal delay-1">
+          <span class="eyebrow">Перед визитом</span>
+          <h3>Можно сначала ничего не везти</h3>
+          <p>Сфотографируйте очки и покажите мастеру. Это особенно удобно для сложной поломки, дорогой оправы или если вы живёте не в Москве.</p>
+          <button class="btn btn-accent wide" data-open-estimate>Показать очки мастеру</button>
+          <a class="btn btn-ghost wide" href="tel:+79851963636">+7 985 196-36-36</a>
+        </aside>
+      </div>
+    </section>
+
+    <section id="contacts" class="section wrap contact-section">
+      <div class="contact-copy reveal">
+        <span class="eyebrow dark">Мастерская в центре Москвы</span>
+        <h2>Рождественка, 5/7с2 — 100 м от метро «Кузнецкий Мост»</h2>
+        <div class="contact-facts">
+          <div><span>Адрес</span><b>107031, Москва, ул. Рождественка, 5/7с2, этаж 2, офис 3</b></div>
+          <div><span>Ориентир</span><b>Подъезд рядом с кафе «Frank by Баста»</b></div>
+          <div><span>Телефон</span><b><a href="tel:+79851963636">+7 985 196-36-36</a></b></div>
+          <div><span>Режим</span><b>Пн–Пт 10:00–20:00 · Сб–Вс выходные</b></div>
+        </div>
+        <div class="hero-actions">
+          <a class="btn btn-dark" href="tel:+79851963636">Позвонить</a>
+          <button class="btn btn-outline" data-open-estimate>Оценить ремонт по фото</button>
+        </div>
+      </div>
+      <div class="location-gallery reveal delay-1">
+        <figure><img src="https://lasergrand.ru/wp-content/uploads/2021/10/%D0%B2%D1%85%D0%BE%D0%B4-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BA%D0%B0.jpg" alt="Вход в мастерскую ЛАЗЕРГРАНД на Рождественке" loading="lazy"/><figcaption>Вход: подъезд рядом с «Frank by Баста»</figcaption></figure>
+        <figure><img src="https://lasergrand.ru/wp-content/uploads/2025/09/PANO_1000%D1%
