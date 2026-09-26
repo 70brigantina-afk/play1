@@ -1,0 +1,44 @@
+/>
+                <circle cx="318" cy="159" r="7" fill="#e4bd73"/>
+              </svg>
+            </div>
+            <div class="hero-note">
+              <span>Титан · сталь · алюминий · золото · серебро</span>
+              <span>Пластик · сложные материалы · брендовые оправы</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="quick-estimate">
+      <div class="wrap quick-grid">
+        <div>
+          <span class="eyebrow dark">Самый простой первый шаг</span>
+          <h2>Не знаете, ремонтируются ли ваши очки?</h2>
+          <p>Сделайте 3–4 фото поломки и 1–2 фронтальных фото очков. По снимкам мастер сможет предварительно понять объём работ и дать ориентир.</p>
+        </div>
+        <div class="quick-steps">
+          <div><span>01</span><b>Сфотографируйте</b><small>поломку с нескольких ракурсов</small></div>
+          <div><span>02</span><b>Отправьте</b><small>фото и коротко опишите проблему</small></div>
+          <div><span>03</span><b>Получите оценку</b><small>по ремонту, стоимости и сроку</small></div>
+        </div>
+        <button class="btn btn-dark" data-open-estimate>Получить предварительную оценку</button>
+      </div>
+    </section>
+
+    <section id="services" class="section wrap">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow dark">Что ремонтируем</span>
+          <h2>От мелкой регулировки до сложного восстановления оправы</h2>
+        </div>
+        <p>Собрали услуги так, чтобы клиент сразу видел решение своей проблемы, а технические детали оставались доступны ниже.</p>
+      </div>
+      <div class="service-grid">
+        <article class="service-card reveal"><span class="service-num">01</span><h3>Лазерная сварка</h3><p>Титан, сталь, алюминий, золото, серебро. В том числе ремонт дужек, мостов, петель и элементов крепления.</p><button class="text-link" data-filter-price="welding">Смотреть цены →</button></article>
+        <article class="service-card reveal"><span class="service-num">02</span><h3>Пластиковые оправы</h3><p>Склейка с армированием, восстановление рамки, моста и дужек, замена шарниров типа «гарпун» и «якорь».</p><button class="text-link" data-filter-price="plastic">Смотреть цены →</button></article>
+        <article class="service-card reveal"><span class="service-num">03</span><h3>Silhouette и титан</h3><p>Ремонт титановых дужек и моста, лазерная сварка, замена элементов и работа с безободковыми конструкциями.</p><button class="text-link" data-filter-price="silhouette">Смотреть цены →</button></article>
+        <article class="service-card reveal"><span class="service-num">04</span><h3>Замена линз</h3><p>Корригирующие и солнцезащитные линзы, сверхпрочные решения для безободковых оправ, фотохром и поляризация.</p><button class="text-link" data-filter-price="lenses">Смотреть цены →</button></article>
+        <article class="service-card reveal"><span class="service-num">05</span><h3>Мелкий ремонт</h3><p>Носоупоры, винты и гайки, леска, выправка геометрии, чистка, стразы и другие сервисные операции.</p><button class="text-link" data-filter-price="small">Смотреть цены →</button></article>
+        <article class="service
