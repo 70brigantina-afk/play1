@@ -1,0 +1,27 @@
+iv class="price-row" data-cat="plastic"><div><b>Замена шарнира «гарпун» / «якорь»</b><small>для пластиковых оправ</small></div><div><strong>2 000 ₽</strong></div></div>
+        <div class="price-row" data-cat="silhouette"><div><b>Сварка штифта Silhouette</b><small>с последующим монтажом</small></div><div><strong>3 500 ₽</strong><span>титан — 4 000 ₽</span></div></div>
+        <div class="price-row" data-cat="silhouette"><div><b>Ремонт титановой дужки Silhouette</b><small>лазерная сварка</small></div><div><strong>3 500 ₽</strong></div></div>
+        <div class="price-row" data-cat="silhouette"><div><b>Замена титановых дужек Silhouette</b><small>новая пара</small></div><div><strong>9 500 ₽</strong></div></div>
+        <div class="price-row" data-cat="silhouette"><div><b>Замена титанового моста Silhouette</b><small>новый элемент</small></div><div><strong>6 500 ₽</strong></div></div>
+        <div class="price-row" data-cat="small"><div><b>Замена носоупоров</b><small>пластик / силикон; в т.ч. Ray-Ban, Silhouette, Lindberg, Porsche</small></div><div><strong>600–1 000 ₽</strong><span>за пару</span></div></div>
+        <div class="price-row" data-cat="small"><div><b>Установка винта, гайки, крепежа</b></div><div><strong>250 ₽</strong><span>за элемент</span></div></div>
+        <div class="price-row" data-cat="small"><div><b>Перетяжка лески</b></div><div><strong>600 ₽</strong></div></div>
+        <div class="price-row" data-cat="small"><div><b>Правка формы / выравнивание оправы</b></div><div><strong>от 500 ₽</strong></div></div>
+        <div class="price-row" data-cat="small"><div><b>Ультразвуковая мойка</b></div><div><strong>200 ₽</strong></div></div>
+        <div class="price-row" data-cat="lenses"><div><b>Корригирующие монофокальные линзы</b><small>Корея / Япония / Германия</small></div><div><strong>от 8 000 ₽</strong><span>пара</span></div></div>
+        <div class="price-row" data-cat="lenses"><div><b>Сверхпрочные линзы для безободковых оправ</b></div><div><strong>от 9 000 ₽</strong><span>пара</span></div></div>
+        <div class="price-row" data-cat="lenses"><div><b>Солнцезащитные линзы</b><small>сплошной окрас или градиент</small></div><div><strong>от 8 000 ₽</strong><span>пара</span></div></div>
+        <div class="price-row" data-cat="lenses"><div><b>Поляризационные линзы</b></div><div><strong>от 9 000 ₽</strong><span>пара</span></div></div>
+        <div class="price-row" data-cat="lenses"><div><b>Зеркальные солнцезащитные линзы</b></div><div><strong>от 9 500 ₽</strong><span>пара</span></div></div>
+      </div>
+      <div class="price-note">
+        <p><b>Важно:</b> прайс состоит из отдельных операций. В сложном ремонте итоговая стоимость складывается из необходимых этапов — демонтажа, подготовки, сварки/склейки, обработки и сборки.</p>
+        <button class="btn btn-outline" data-open-estimate>Узнать стоимость по фото</button>
+      </div>
+    </section>
+
+    <section id="delivery" class="section section-dark delivery">
+      <div class="wrap">
+        <div class="section-head light reveal">
+          <div><span class="eyebrow">Не только Москва</span><h2>Ремонт очков с отправкой из регионов России</h2></div>
+          <p>Сначала согласуйте р
